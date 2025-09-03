@@ -1,16 +1,18 @@
-#🎬 Movie Recommendation System
+  #🎬 Movie Recommendation System
 
 This project is a content-based movie recommendation system that suggests movies similar to a user’s input using cosine similarity on TF-IDF feature vectors.
+--
 
 ##📌 Project Overview
 
-The recommendation is based on:
+-The recommendation is based on:
 
-User’s previous watch patterns (similar genre, cast, director, etc.)
+-User’s previous watch patterns (similar genre, cast, director, etc.)
 
-Popular movies (top trends on platforms like Netflix)
+-Popular movies (top trends on platforms like Netflix)
 
-Group-based recommendations (people with similar watch habits)
+-Group-based recommendations (people with similar watch habits)
+--
 
 ##⚙️ How It Works
 
